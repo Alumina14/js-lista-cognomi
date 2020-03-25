@@ -1,0 +1,62 @@
+/* css */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ul li{
+  list-style-type: none;
+  padding: 10px 0;
+  border: 1px solid white;
+  background-color: darkorange;
+  color: white;
+  font-weight: bolder;
+  border-style: dashed;
+}
+
+h1, ul, p{
+  display: block;
+  text-align: center;
+  color: white;
+}
+
+h1{
+
+}
+
+body{
+  background-color: darkgrey;
+
+}
+
+ul{
+  width: 300px;
+  margin: auto;
+  box-shadow: 4px 4px WHITE;
+  border-radius: 4px;
+}
+
+p{
+  background-color: white;
+  width: 300px;
+  margin: auto;
+  color: darkorange;
+  font-weight: BOLD;
+  border: 1px solid darkorange;
+  box-shadow: 4px 4px DARKORANGE;
+  border-radius: 4px;
+}
+
+h1{
+  background-color: white;
+  width: 300px;
+  margin: auto;
+  color: darkorange;
+  font-weight: BOLD;
+  border: 1px solid darkorange;
+  box-shadow: 4px 4px DARKORANGE;
+  margin-top: 100px;
+  border-radius: 4px;
+}
